@@ -1,0 +1,9 @@
+Nombre del alumno: Allison Hatziry Tirado Barraza
+
+Fecha: 10 de Marzo del 2026
+
+Objetivo de la actividad:
+Practicar el flujo de trabajo en GitHub creando un repositorio.
+
+¿Qué es un Pull Request?
+Es una solicitud para integrar cambios realizados en una rama hacia otra rama del repositorio, generalmente hacia la rama principal.
