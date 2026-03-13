@@ -1,3 +1,0 @@
-Proyecto: Git Conflicts
-Responsable: Allison Hatziry Tirado Barraza
-Version: 1.0
