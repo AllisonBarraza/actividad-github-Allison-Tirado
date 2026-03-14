@@ -1,3 +1,4 @@
 Nombre: Fatima Lizarraga
 Fecha: 13/03/2026
 Practica de aprobacion de PR
+Segunda prueba para validación de reglas
